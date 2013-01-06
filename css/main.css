@@ -1,0 +1,22 @@
+#list-template {
+	display: none;
+}
+
+#template-preview {
+	display: none;
+}
+
+#preview{
+	position:absolute;
+	border:1px solid #ccc;
+	background:#333;
+	padding-top:5px;
+	padding-left:5px;
+	padding-right:5px;
+	padding-bottom:0px;
+	display:none;
+	color:#fff;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
